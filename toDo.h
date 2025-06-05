@@ -4,9 +4,9 @@
 
 Class toDo {
   public:
-//adding function
-//deleting function
-//view function
+    void add();
+    void delete();
+    void view();
   private:
 //private vector
 //private string
