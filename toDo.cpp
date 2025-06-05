@@ -3,17 +3,17 @@
 #include <iostream>
 #include <vector>
 
-void add()
+void toDo::add()
 {
   //add function
 }
 
-void delete()
+void toDo::delete()
 {
   //delete function
 }
 
-void view()
+void toDo::view()
 {
   //view function
 }
