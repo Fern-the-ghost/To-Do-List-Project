@@ -2,7 +2,8 @@
 #ifndef TODO_H
 #define TODO_H
 
-Class toDo {
+Class toDo 
+{
   public:
     void add();
     void delete();
