@@ -2,13 +2,12 @@
 #ifndef TODO_H
 #define TODO_H
 
-Class toDo 
-{
-  public:
+class toDo {
+public:
     void add();
     void delete();
     void view();
-  private:
+private:
 //private vector
 //private string
 //etc...
