@@ -32,6 +32,7 @@ int main()
         //to view the list
         case 4:
         //to leave the program
+        //should consist of a break to leave the switch run if need be
     }
 
     return 0;
