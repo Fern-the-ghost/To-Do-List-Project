@@ -35,5 +35,7 @@ int main()
         //should consist of a break to leave the switch run if need be
     }
 
+    //will need to add another delete for this current vector so it deletes this one as well
+    
     return 0;
 }
