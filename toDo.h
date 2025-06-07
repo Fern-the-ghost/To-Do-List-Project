@@ -10,6 +10,7 @@ public:
 private:
 //private vector
 //private string
+//private bool maybe?
 //etc...
 };
 
