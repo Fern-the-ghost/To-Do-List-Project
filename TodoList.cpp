@@ -27,6 +27,8 @@ int main()
     switch(num){
         case 1:
         //adding to task list(try making a function to add and inform them that item has been added)
+            cout << endl;
+            cout << "Task has been added to your list" << endl;
         case 2:
         //taking away from list
         case 3:
